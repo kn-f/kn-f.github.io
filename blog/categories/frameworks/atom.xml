@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Frameworks | Why / Why Not]]></title>
   <link href="http://kn-f.github.io/blog/categories/frameworks/atom.xml" rel="self"/>
   <link href="http://kn-f.github.io/"/>
-  <updated>2014-12-03T20:11:45+00:00</updated>
+  <updated>2014-12-03T20:24:52+00:00</updated>
   <id>http://kn-f.github.io/</id>
   <author>
     <name><![CDATA[kn_F]]></name>
@@ -23,11 +23,15 @@
 <!--more-->
 
 
-<p>I know that the current core is based on Phalcon and it work pretty well for what I’ve been told and probably using a resonable framework is the way to go, just please bear with me to understand the reasoning and the decision behind the choice of going with pure PHP.</p>
+<p>I know that the current core is based on <a href="http://www.phalconphp.com/">Phalcon</a> and it work pretty well for what I’ve been told; probably using a resonable framework is the way to go, just please bear with me to understand the reasoning and the decision behind the choice of going with pure <em>PHP</em>.</p>
 
-<p>First thing let me tell you that when the development started we were already late (nothing new, you could say). Since I wasn’t comfortable with any framework I decided to go with plain PHP. At the end of the day PHP already provided most of the functionalities I needed so all the work was to implement a routing function (a simple switch statement) and several support libraries with the business logic and database accesses. In less than a week we had the prototype ready to roll allowing us to secure the project.</p>
+<p>First thing let me tell you that when the development started we were already late (nothing new, you could say). Since I wasn’t experienced with any framework I decided to go with plain <em>PHP</em>. At the end of the day <em>PHP</em> already provided most of the functionalities I needed. <em>Object Oriented Programming</em> was discarded as the structure was pretty straightforward:
+* Implement a routing function (a simple switch statement)
+* Several support libraries were created with the business logic and database accesses.
+In less than a week we had the prototype ready to roll allowing us to secure the project.</p>
 
-<p>The philosophy behind this was Unix style: to create several small libraries with the necessary functions that could be either invoked by PHP directly or used as web services with a simple wrapper. In this way we could distribute the application on several servers splitting logically the functions. This was working fairly fine and allowed us to create some Flash applications using the web services created with no effort.</p>
+<p>We were just following the <em>Unix philosophy</em>: to create several small libraries with the necessary functions that could be either invoked by <em>PHP</em> directly or used as web services with a simple wrapper.
+In this way we could distribute the application on several servers splitting logically the functions. This was working fairly fine and allowed us to create some Flash applications using the web services created with no effort.</p>
 
 <p>Then the revolution came, we had a team and and it was decided to go mainstream. We wrote everything from scratch using Symfony 2 and Doctrine: it took us two weeks non stop but the result was evidently better. I learnt many new things: bundles, ORM, Composer, injections…it was an exciting experience.</p>
 

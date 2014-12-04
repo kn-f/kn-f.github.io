@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: About | Why / Why Not]]></title>
+  <link href="http://kn-f.github.io/blog/categories/about/atom.xml" rel="self"/>
+  <link href="http://kn-f.github.io/"/>
+  <updated>2014-12-04T19:34:28+00:00</updated>
+  <id>http://kn-f.github.io/</id>
+  <author>
+    <name><![CDATA[kn_F]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[First Post]]></title>
+    <link href="http://kn-f.github.io/blog/2014/12/03/first-post/"/>
+    <updated>2014-12-03T17:29:40+00:00</updated>
+    <id>http://kn-f.github.io/blog/2014/12/03/first-post</id>
+    <content type="html"><![CDATA[<p>What follows is the first post I wrote back in 2012 before leaving the idea.
+I’d like to keep it as a reminder of its original intent.</p>
+
+<!--more-->
+
+
+<blockquote><p>It happens to me, while implementing an IT solution to ask to myself: why should I?: Why should I use Nagios? Why should I virtualize the server?Why should I use a PHP framework?</p>
+
+<p>Sometimes the original solution is the best, other times I discover alternatives that solve better the problem we had. Aim of this blog is to document my experiences detailing the reasoning behind the choices and a review after a few months of usage.</p>
+
+<p>Hope this helps! :D</p></blockquote>
+]]></content>
+  </entry>
+  
+</feed>

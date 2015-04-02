@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Short | Why / Why Not]]></title>
+  <link href="http://kn-f.github.io/blog/categories/short/atom.xml" rel="self"/>
+  <link href="http://kn-f.github.io/"/>
+  <updated>2015-04-02T12:31:23+00:00</updated>
+  <id>http://kn-f.github.io/</id>
+  <author>
+    <name><![CDATA[kn_F]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Reviews Made Short - MUJO]]></title>
+    <link href="http://kn-f.github.io/blog/2015/04/02/mujo/"/>
+    <updated>2015-04-02T12:20:33+00:00</updated>
+    <id>http://kn-f.github.io/blog/2015/04/02/mujo</id>
+    <content type="html"><![CDATA[<p><a href="http://mujo.oinkgms.com/">MUJO</a>
+Fun: Entertatning
+Complexity: Good challanges, well balanced
+Real Cost: Free, low (IaP not required to reach level 20)
+Overall: Play it!</p>
+]]></content>
+  </entry>
+  
+</feed>

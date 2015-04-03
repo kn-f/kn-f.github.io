@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Reviews made short - MUJO"
+date: 2015-04-02 12:20:33 +0000
+comments: true
+categories:
+- Game
+- Review
+- Short
+---
+[MUJO](http://mujo.oinkgms.com/) |  |
+--- | ---
+*Fun* | Entertatning
+*Complexity* | Good challanges, well balanced
+*Real Cost* | Free, low (IaP not required to reach level 20)
+*Overall* | Play it!

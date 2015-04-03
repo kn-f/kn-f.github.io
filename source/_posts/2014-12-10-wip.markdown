@@ -1,0 +1,18 @@
+---
+layout: post
+title: "WIP"
+date: 2014-12-10 20:58:06 +0000
+comments: true
+published: false
+categories:
+- idle
+- game
+---
+I'm currently working on a project in [Construct 2](https://www.scirra.com/construct2). The game belongs the the *idle* category where  you've to configure something and then wait for it to to harvest resources that you'll spend to improve the configuration to harvest more and faster.faster
+<!--more-->
+The basic idea behind the *idle* games is extremely simple and still a well realized *idle* game is extremely addictive. The principle behind it is the same that made *Pokemon* a great success: collectioning.
+For some reasons whenever we can we collect things: *vynils*, *stickers*, *cars*, *knives*...it's in our nature to do so. And to make things easier for *lazy* people like me, *idle* games come to help by *automating* (not really, but allow me this semplification) what should be repetitive tasks like collecting *money*.money
+
+You just need to wait without spending time on the game itself and you'll get the benefits. The fun factor is moved to the pure discovery of *"what's next"* and to spend your resources wisely so that it will take less and less to you to get the resources necessary to improve.
+
+Some games like [Adventure Capitalist](http://www.kongregate.com/games/HyperHippoGames/adventure-capitalist) are quite a hit with a huge amount of improvements and *replayability*

@@ -1,2 +1,22 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+
+ 
+table {
+  display: block;
+  overflow: auto;
+  width: auto;
+}
+  
+th {
+    background-color: rgb(238, 238, 238);
+    font-weight: normal;
+    padding: 5px 5px;
+    text-align: center;
+ }
+  
+td {
+  color: rgb(111, 111, 111);
+  padding: 5px 5px;
+}
+

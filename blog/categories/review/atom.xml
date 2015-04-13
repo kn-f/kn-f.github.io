@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Review | Why / Why Not]]></title>
   <link href="http://kn-f.github.io/blog/categories/review/atom.xml" rel="self"/>
   <link href="http://kn-f.github.io/"/>
-  <updated>2015-04-02T13:44:39+00:00</updated>
+  <updated>2015-04-13T18:13:00+00:00</updated>
   <id>http://kn-f.github.io/</id>
   <author>
     <name><![CDATA[kn_F]]></name>
@@ -14,6 +14,41 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Reviews Made Short - Spinlanders]]></title>
+    <link href="http://kn-f.github.io/blog/2015/04/06/spinlanders/"/>
+    <updated>2015-04-06T09:31:26+00:00</updated>
+    <id>http://kn-f.github.io/blog/2015/04/06/spinlanders</id>
+    <content type="html"><![CDATA[<table>
+<thead>
+<tr>
+<th>Game </th>
+<th> <a href="http://www.backupent.com/">Spinlanders</a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>Fun</em> </td>
+<td> Enjoyable, grinding mandatory</td>
+</tr>
+<tr>
+<td><em>Complexity</em> </td>
+<td> Easy to play, a bit frustrating sometimes</td>
+</tr>
+<tr>
+<td><em>Real Cost</em> </td>
+<td> IaP can help a lot to progress quickly</td>
+</tr>
+<tr>
+<td><em>Overall</em> </td>
+<td> Have a look at it</td>
+</tr>
+</tbody>
+</table>
+
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Reviews Made Short - MUJO]]></title>
     <link href="http://kn-f.github.io/blog/2015/04/02/mujo/"/>
     <updated>2015-04-02T12:20:33+00:00</updated>
@@ -21,14 +56,14 @@
     <content type="html"><![CDATA[<table>
 <thead>
 <tr>
-<th><a href="http://mujo.oinkgms.com/">MUJO</a> </th>
-<th>  </th>
+<th>Game </th>
+<th> <a href="http://mujo.oinkgms.com/">MUJO</a></th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td><em>Fun</em> </td>
-<td> Entertatning</td>
+<td> Entertaining</td>
 </tr>
 <tr>
 <td><em>Complexity</em> </td>

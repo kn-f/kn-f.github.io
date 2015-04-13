@@ -4,7 +4,7 @@
   <title><![CDATA[Why / Why Not]]></title>
   <link href="http://kn-f.github.io/atom.xml" rel="self"/>
   <link href="http://kn-f.github.io/"/>
-  <updated>2015-04-02T13:44:39+00:00</updated>
+  <updated>2015-04-13T18:13:00+00:00</updated>
   <id>http://kn-f.github.io/</id>
   <author>
     <name><![CDATA[kn_F]]></name>
@@ -14,6 +14,67 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Deploying Octopress to github.io]]></title>
+    <link href="http://kn-f.github.io/blog/2015/04/06/deploying-octopress-to-github-dot-io/"/>
+    <updated>2015-04-06T10:46:54+00:00</updated>
+    <id>http://kn-f.github.io/blog/2015/04/06/deploying-octopress-to-github-dot-io</id>
+    <content type="html"><![CDATA[<p>I wanted to take a chance to try the <em>linklog</em> solution but it&rsquo;s &ldquo;too complex&rdquo; for what I need.</p>
+
+<p>Basically I wanted to link this entry to a blog page explaining how to setup and link an <em>Octopress</em> blog to <a href="https://github.com/">GitHub</a>.</p>
+
+<!-- more -->
+
+
+<p>Among all the articles I read, this looked the easiest and most clear. If you just follow it you&rsquo;ll be able to deploy your blog in <em>github</em> as well as use it as a standard git repository for the sources.</p>
+
+<p>This is the link: <a href="http://bayendor.github.io/blog/2013/07/17/deploying-octopress-to-github-dot-io/">Deploying Octopress to github.io</a><sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup></p>
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">
+<p>Yes, shame on me, I even copied the title of the blog entry ;)<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+</ol>
+</div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Reviews Made Short - Spinlanders]]></title>
+    <link href="http://kn-f.github.io/blog/2015/04/06/spinlanders/"/>
+    <updated>2015-04-06T09:31:26+00:00</updated>
+    <id>http://kn-f.github.io/blog/2015/04/06/spinlanders</id>
+    <content type="html"><![CDATA[<table>
+<thead>
+<tr>
+<th>Game </th>
+<th> <a href="http://www.backupent.com/">Spinlanders</a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>Fun</em> </td>
+<td> Enjoyable, grinding mandatory</td>
+</tr>
+<tr>
+<td><em>Complexity</em> </td>
+<td> Easy to play, a bit frustrating sometimes</td>
+</tr>
+<tr>
+<td><em>Real Cost</em> </td>
+<td> IaP can help a lot to progress quickly</td>
+</tr>
+<tr>
+<td><em>Overall</em> </td>
+<td> Have a look at it</td>
+</tr>
+</tbody>
+</table>
+
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Reviews Made Short - MUJO]]></title>
     <link href="http://kn-f.github.io/blog/2015/04/02/mujo/"/>
     <updated>2015-04-02T12:20:33+00:00</updated>
@@ -21,14 +82,14 @@
     <content type="html"><![CDATA[<table>
 <thead>
 <tr>
-<th><a href="http://mujo.oinkgms.com/">MUJO</a> </th>
-<th>  </th>
+<th>Game </th>
+<th> <a href="http://mujo.oinkgms.com/">MUJO</a></th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td><em>Fun</em> </td>
-<td> Entertatning</td>
+<td> Entertaining</td>
 </tr>
 <tr>
 <td><em>Complexity</em> </td>

@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Why / Why Not]]></title>
+  <link href="http://kn-f.github.io/atom.xml" rel="self"/>
+  <link href="http://kn-f.github.io/"/>
+  <updated>2015-07-27T17:19:12+00:00</updated>
+  <id>http://kn-f.github.io/</id>
+  <author>
+    <name><![CDATA[kn_F]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Reviews Made Short - Dungelot 2]]></title>
+    <link href="http://kn-f.github.io/blog/2015/07/27/dungelot-2/"/>
+    <updated>2015-07-27T15:07:00+00:00</updated>
+    <id>http://kn-f.github.io/blog/2015/07/27/dungelot-2</id>
+    <content type="html"><![CDATA[<table>
+<thead>
+<tr>
+<th>Game </th>
+<th> <a href="http://winter.red/">Dungelot 2</a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>Fun</em> </td>
+<td> Will not keep you busy for more than 10 minutes</td>
+</tr>
+<tr>
+<td><em>Complexity</em> </td>
+<td> Easy to play, too much randomness,  grinding mandatory</td>
+</tr>
+<tr>
+<td><em>Real Cost</em> </td>
+<td> IaP can help</td>
+</tr>
+<tr>
+<td><em>Overall</em> </td>
+<td> Nice, but I liked better the first</td>
+</tr>
+</tbody>
+</table>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Deploying Octopress to github.io]]></title>
+    <link href="http://kn-f.github.io/blog/2015/04/06/deploying-octopress-to-github-dot-io/"/>
+    <updated>2015-04-06T10:46:54+00:00</updated>
+    <id>http://kn-f.github.io/blog/2015/04/06/deploying-octopress-to-github-dot-io</id>
+    <content type="html"><![CDATA[<p>I wanted to take a chance to try the <em>linklog</em> solution but it&rsquo;s &ldquo;too complex&rdquo; for what I need.</p>
+
+<p>Basically I wanted to link this entry to a blog page explaining how to setup and link an <em>Octopress</em> blog to <a href="https://github.com/">GitHub</a>.</p>
+
+<!-- more -->
+
+
+<p>Among all the articles I read, this looked the easiest and most clear. If you just follow it you&rsquo;ll be able to deploy your blog in <em>github</em> as well as use it as a standard git repository for the sources.</p>
+
+<p>This is the link: <a href="http://bayendor.github.io/blog/2013/07/17/deploying-octopress-to-github-dot-io/">Deploying Octopress to github.io</a><sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup></p>
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">
+<p>Yes, shame on me, I even copied the title of the blog entry ;)<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+</ol>
+</div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Reviews Made Short - Spinlanders]]></title>
+    <link href="http://kn-f.github.io/blog/2015/04/06/spinlanders/"/>
+    <updated>2015-04-06T09:31:26+00:00</updated>
+    <id>http://kn-f.github.io/blog/2015/04/06/spinlanders</id>
+    <content type="html"><![CDATA[<table>
+<thead>
+<tr>
+<th>Game </th>
+<th> <a href="http://www.backupent.com/">Spinlanders</a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>Fun</em> </td>
+<td> Enjoyable, grinding mandatory</td>
+</tr>
+<tr>
+<td><em>Complexity</em> </td>
+<td> Easy to play, a bit frustrating sometimes</td>
+</tr>
+<tr>
+<td><em>Real Cost</em> </td>
+<td> IaP can help a lot to progress quickly</td>
+</tr>
+<tr>
+<td><em>Overall</em> </td>
+<td> Have a look at it</td>
+</tr>
+</tbody>
+</table>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Reviews Made Short - MUJO]]></title>
+    <link href="http://kn-f.github.io/blog/2015/04/02/mujo/"/>
+    <updated>2015-04-02T12:20:33+00:00</updated>
+    <id>http://kn-f.github.io/blog/2015/04/02/mujo</id>
+    <content type="html"><![CDATA[<table>
+<thead>
+<tr>
+<th>Game </th>
+<th> <a href="http://mujo.oinkgms.com/">MUJO</a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>Fun</em> </td>
+<td> Entertaining</td>
+</tr>
+<tr>
+<td><em>Complexity</em> </td>
+<td> Good challanges, well balanced</td>
+</tr>
+<tr>
+<td><em>Real Cost</em> </td>
+<td> Free, low (IaP not required to reach level 20)</td>
+</tr>
+<tr>
+<td><em>Overall</em> </td>
+<td> Play it!</td>
+</tr>
+</tbody>
+</table>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Once I Was a Developer]]></title>
+    <link href="http://kn-f.github.io/blog/2014/12/29/once-i-was-a-developer/"/>
+    <updated>2014-12-29T10:50:33+00:00</updated>
+    <id>http://kn-f.github.io/blog/2014/12/29/once-i-was-a-developer</id>
+    <content type="html"><![CDATA[<p>This is one of these days where I need to write. I&rsquo;m sure I&rsquo;ll never publish this post but at least let&rsquo;s give it a go.
+<em>Once I was a developer</em>, or at least this is what I think.</p>
+
+<!--more-->
+
+
+<p>I started &ldquo;writing programs&rdquo; when a I was about 6. I still have a program (but it should be more accurate to call it a composition of existing programs) that I wrote on paper when I was about that age. Nothing complex but at that time the <em>discovery</em> of the fact that I could <em>create</em> was incredible.</p>
+
+<blockquote><p>2/4/2015 - At that time I did not complete the post. I wanted to write that since a year or so I lost the will and drive to develop.
+Now it&rsquo;s important for me to make the post public as finally it looks like I got back the inspiration!</p></blockquote>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Why - Music While Creating]]></title>
+    <link href="http://kn-f.github.io/blog/2014/12/10/why-music-while-creating/"/>
+    <updated>2014-12-10T19:12:50+00:00</updated>
+    <id>http://kn-f.github.io/blog/2014/12/10/why-music-while-creating</id>
+    <content type="html"><![CDATA[<p>Meh..:( Looks like I just lost the post&hellip;
+<a href="https://koding.com/">Koding</a> is briliant but needs a little bit of polishing to be a day to day tool.</p>
+
+<p>I was very inspired while writing (yes I was listening to some music:<a href="http://open.spotify.com/album/3KYFjFzw34AhmlxQC8r5W6">Neon Future I</a>) so probably it&rsquo;s better like this.</p>
+
+<!-- more -->
+
+
+<p>The point is that whenever I feel like I need lots of concentration, when I want ot be isolated from the world, I put on my headphones and listen to some music. Not always my favourite songs; actually depending from how I feel I can listen to <em>classical</em>, <em>heavy metal</em>, <em>electro</em>.</p>
+
+<p>Every kind of music has a reason, each song has its piece of code, its part of the drawing that has inspired. The right music helps my creative flow, makes me feel like I&rsquo;m just copying an existing script: no need to think, no need to review.</p>
+
+<p>Then when the music ends and I check what I&rsquo;ve done, the experience tells me that it&rsquo;s not as good as it seemed to me when I was creating it. But still the influence of the music is there.</p>
+
+<p>What&rsquo;s your experience? Do you listen to music while creating?</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Why Not - PHP Frameworks]]></title>
+    <link href="http://kn-f.github.io/blog/2014/12/03/why-not-php-frameworks/"/>
+    <updated>2014-12-03T17:35:14+00:00</updated>
+    <id>http://kn-f.github.io/blog/2014/12/03/why-not-php-frameworks</id>
+    <content type="html"><![CDATA[<p>I’m writing this after more than two years since we took the decision to do the core development of our apps using plain <em>PHP</em> and to tell you the truth ditching object oriented programming as well.</p>
+
+<!--more-->
+
+
+<p>I know that the current core is based on <a href="http://www.phalconphp.com/">Phalcon</a> and it work pretty well for what I’ve been told; probably using a resonable framework is the way to go, just please bear with me to understand the reasoning and the decision behind the choice of going with pure <em>PHP</em>.</p>
+
+<p>First thing let me tell you that when the development started we were already late (nothing new, you could say). Since I wasn’t experienced with any framework I decided to go with plain <em>PHP</em>. At the end of the day <em>PHP</em> already provided most of the functionalities I needed. <em>Object Oriented Programming</em> was discarded as the website was pretty straightforward:
+* A few static pages
+* A login page
+* A <em>place a bet</em> page
+* A user area
+* A result page</p>
+
+<p>To implement this the structure of the application was made of:
+* A routing function (a simple switch statement)
+* Several support libraries where the business logic and database accesses were implemented.
+In less than a week we had the prototype ready to roll allowing us to secure the project.</p>
+
+<p>The structure of the libraries was created following the <em>Unix philosophy</em>: each library would implement a small set of independent functionalities and structured so that each function could be either invoked by <em>PHP</em> directly or used as web services with a simple wrapper.
+In this way we could distribute the application on several servers splitting logically the functions. This was working fairly fine and allowed us to create some Flash applications using the web services created with no effort.</p>
+
+<p>Then the revolution came, we had a team and and it was decided to go mainstream. We wrote everything from scratch using Symfony 2 and Doctrine: it took us two weeks non stop but the result was evidently better. I learnt many new things: bundles, ORM, Composer, injections…it was an exciting experience.</p>
+
+<p>Now if you ask me if I would use Doctrine, I’d be having mixed feelings. On Symfony2, I’d be prone to say no. But this is my personal opinion.</p>
+
+<p>The person that took my place rewrote everything again using Phalcon, I’ve not used it so I cannot say anything.</p>
+
+<p>Back to the original question: would I use an existing PHP framework for a development? Not so sure…now I’m able to design a good and flexible routing engine with small effort. Security (sql injections, overflows…) is pretty well implemented with the basic PHP functions. Probably I’d push all the audit functions to the DBMS using triggers. Where I really enjoyed the advantages of the forms. But beside that…I’d rather create an ad hoc framework fit for the needs.</p>
+
+<p>I understand that there’s no need to reinvent the wheel and I completely support that philosophy but the building blocks for PHP are big and complex enough to allow an average web development to be lead without the need of a framework.</p>
+
+<p>Unfortunately, or for better, I left the PHP world and I stopped devloping and investigating other frameworks.</p>
+
+<p>Anyone for any good suggestion?</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[First Post]]></title>
+    <link href="http://kn-f.github.io/blog/2014/12/03/first-post/"/>
+    <updated>2014-12-03T17:29:40+00:00</updated>
+    <id>http://kn-f.github.io/blog/2014/12/03/first-post</id>
+    <content type="html"><![CDATA[<p>What follows is the first post I wrote back in 2012 before leaving the idea.
+I’d like to keep it as a reminder of its original intent.</p>
+
+<!--more-->
+
+
+<blockquote><p>It happens to me, while implementing an IT solution to ask to myself: why should I?: Why should I use Nagios? Why should I virtualize the server?Why should I use a PHP framework?</p><p>Sometimes the original solution is the best, other times I discover alternatives that solve better the problem we had. Aim of this blog is to document my experiences detailing the reasoning behind the choices and a review after a few months of usage.</p><p>Hope this helps! :D</p></blockquote>
+
+]]></content>
+  </entry>
+  
+</feed>

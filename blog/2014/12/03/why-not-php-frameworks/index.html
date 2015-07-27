@@ -1,0 +1,279 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Why Not - PHP Frameworks - Why / Why Not</title>
+  <meta name="author" content="kn_F">
+
+  
+  <meta name="description" content="I’m writing this after more than two years since we took the decision to do the core development of our apps using plain PHP and to tell you the &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://kn-f.github.io/blog/2014/12/03/why-not-php-frameworks/">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="Why / Why Not" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="/javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="//fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-57335055-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">Why / Why Not</a></h1>
+  
+    <h2>All _my_ questions answered! :D</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="https://www.google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="sitesearch" value="kn-f.github.io">
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+  <li><a href="/about">About</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Why Not - PHP Frameworks</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+<time class='entry-date' datetime='2014-12-03T17:35:14+00:00'><span class='date'>2014-12-03</span> <span class='time'>5:35 pm</span></time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>I’m writing this after more than two years since we took the decision to do the core development of our apps using plain <em>PHP</em> and to tell you the truth ditching object oriented programming as well.</p>
+
+<!--more-->
+
+
+<p>I know that the current core is based on <a href="http://www.phalconphp.com/">Phalcon</a> and it work pretty well for what I’ve been told; probably using a resonable framework is the way to go, just please bear with me to understand the reasoning and the decision behind the choice of going with pure <em>PHP</em>.</p>
+
+<p>First thing let me tell you that when the development started we were already late (nothing new, you could say). Since I wasn’t experienced with any framework I decided to go with plain <em>PHP</em>. At the end of the day <em>PHP</em> already provided most of the functionalities I needed. <em>Object Oriented Programming</em> was discarded as the website was pretty straightforward:
+* A few static pages
+* A login page
+* A <em>place a bet</em> page
+* A user area
+* A result page</p>
+
+<p>To implement this the structure of the application was made of:
+* A routing function (a simple switch statement)
+* Several support libraries where the business logic and database accesses were implemented.
+In less than a week we had the prototype ready to roll allowing us to secure the project.</p>
+
+<p>The structure of the libraries was created following the <em>Unix philosophy</em>: each library would implement a small set of independent functionalities and structured so that each function could be either invoked by <em>PHP</em> directly or used as web services with a simple wrapper.
+In this way we could distribute the application on several servers splitting logically the functions. This was working fairly fine and allowed us to create some Flash applications using the web services created with no effort.</p>
+
+<p>Then the revolution came, we had a team and and it was decided to go mainstream. We wrote everything from scratch using Symfony 2 and Doctrine: it took us two weeks non stop but the result was evidently better. I learnt many new things: bundles, ORM, Composer, injections…it was an exciting experience.</p>
+
+<p>Now if you ask me if I would use Doctrine, I’d be having mixed feelings. On Symfony2, I’d be prone to say no. But this is my personal opinion.</p>
+
+<p>The person that took my place rewrote everything again using Phalcon, I’ve not used it so I cannot say anything.</p>
+
+<p>Back to the original question: would I use an existing PHP framework for a development? Not so sure…now I’m able to design a good and flexible routing engine with small effort. Security (sql injections, overflows…) is pretty well implemented with the basic PHP functions. Probably I’d push all the audit functions to the DBMS using triggers. Where I really enjoyed the advantages of the forms. But beside that…I’d rather create an ad hoc framework fit for the needs.</p>
+
+<p>I understand that there’s no need to reinvent the wheel and I completely support that philosophy but the building blocks for PHP are big and complex enough to allow an average web development to be lead without the need of a framework.</p>
+
+<p>Unfortunately, or for better, I left the PHP world and I stopped devloping and investigating other frameworks.</p>
+
+<p>Anyone for any good suggestion?</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">kn_F</span></span>
+
+      
+
+
+
+
+<time class='entry-date' datetime='2014-12-03T17:35:14+00:00'><span class='date'>2014-12-03</span> <span class='time'>5:35 pm</span></time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/frameworks/'>frameworks</a>, <a class='category' href='/blog/categories/php/'>php</a>, <a class='category' href='/blog/categories/why/'>why</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://kn-f.github.io/blog/2014/12/03/why-not-php-frameworks/" data-via="kn_Frenk" data-counturl="http://kn-f.github.io/blog/2014/12/03/why-not-php-frameworks/" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2014/12/03/first-post/" title="Previous Post: First Post">&laquo; First Post</a>
+      
+      
+        <a class="basic-alignment right" href="/blog/2014/12/10/why-music-while-creating/" title="Next Post: Why - Music While Creating">Why - Music While Creating &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2015/07/27/dungelot-2/">Reviews Made Short - Dungelot 2</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2015/04/06/deploying-octopress-to-github-dot-io/">Deploying Octopress to github.io</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2015/04/06/spinlanders/">Reviews Made Short - Spinlanders</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2015/04/02/mujo/">Reviews Made Short - MUJO</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2014/12/29/once-i-was-a-developer/">Once I Was a Developer</a>
+      </li>
+    
+  </ul>
+</section>
+
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating&#8230;</li>
+  </ul>
+  
+  <script type="text/javascript">
+    $(document).ready(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'kn-f',
+            count: 0,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2015 - kn_F -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

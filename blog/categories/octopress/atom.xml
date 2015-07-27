@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Octopress | Why / Why Not]]></title>
+  <link href="http://kn-f.github.io/blog/categories/octopress/atom.xml" rel="self"/>
+  <link href="http://kn-f.github.io/"/>
+  <updated>2015-07-27T17:19:12+00:00</updated>
+  <id>http://kn-f.github.io/</id>
+  <author>
+    <name><![CDATA[kn_F]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Deploying Octopress to github.io]]></title>
+    <link href="http://kn-f.github.io/blog/2015/04/06/deploying-octopress-to-github-dot-io/"/>
+    <updated>2015-04-06T10:46:54+00:00</updated>
+    <id>http://kn-f.github.io/blog/2015/04/06/deploying-octopress-to-github-dot-io</id>
+    <content type="html"><![CDATA[<p>I wanted to take a chance to try the <em>linklog</em> solution but it&rsquo;s &ldquo;too complex&rdquo; for what I need.</p>
+
+<p>Basically I wanted to link this entry to a blog page explaining how to setup and link an <em>Octopress</em> blog to <a href="https://github.com/">GitHub</a>.</p>
+
+<!-- more -->
+
+
+<p>Among all the articles I read, this looked the easiest and most clear. If you just follow it you&rsquo;ll be able to deploy your blog in <em>github</em> as well as use it as a standard git repository for the sources.</p>
+
+<p>This is the link: <a href="http://bayendor.github.io/blog/2013/07/17/deploying-octopress-to-github-dot-io/">Deploying Octopress to github.io</a><sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup></p>
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">
+<p>Yes, shame on me, I even copied the title of the blog entry ;)<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+</ol>
+</div>
+
+]]></content>
+  </entry>
+  
+</feed>

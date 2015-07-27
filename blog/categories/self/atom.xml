@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Self | Why / Why Not]]></title>
+  <link href="http://kn-f.github.io/blog/categories/self/atom.xml" rel="self"/>
+  <link href="http://kn-f.github.io/"/>
+  <updated>2015-07-27T17:19:12+00:00</updated>
+  <id>http://kn-f.github.io/</id>
+  <author>
+    <name><![CDATA[kn_F]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Once I Was a Developer]]></title>
+    <link href="http://kn-f.github.io/blog/2014/12/29/once-i-was-a-developer/"/>
+    <updated>2014-12-29T10:50:33+00:00</updated>
+    <id>http://kn-f.github.io/blog/2014/12/29/once-i-was-a-developer</id>
+    <content type="html"><![CDATA[<p>This is one of these days where I need to write. I&rsquo;m sure I&rsquo;ll never publish this post but at least let&rsquo;s give it a go.
+<em>Once I was a developer</em>, or at least this is what I think.</p>
+
+<!--more-->
+
+
+<p>I started &ldquo;writing programs&rdquo; when a I was about 6. I still have a program (but it should be more accurate to call it a composition of existing programs) that I wrote on paper when I was about that age. Nothing complex but at that time the <em>discovery</em> of the fact that I could <em>create</em> was incredible.</p>
+
+<blockquote><p>2/4/2015 - At that time I did not complete the post. I wanted to write that since a year or so I lost the will and drive to develop.
+Now it&rsquo;s important for me to make the post public as finally it looks like I got back the inspiration!</p></blockquote>
+]]></content>
+  </entry>
+  
+</feed>

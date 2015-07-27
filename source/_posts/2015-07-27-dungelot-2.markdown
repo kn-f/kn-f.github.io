@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Reviews made short - Dungelot 2"
+date: 2015-07-27 15:07:00 +0000
+comments: true
+categories:
+- Game
+- Review
+- Short
+---
+Game | [Dungelot 2](http://winter.red/)
+--- | ---
+*Fun* | Will not keep you busy for more than 10 minutes
+*Complexity* | Easy to play, too much randomness,  grinding mandatory
+*Real Cost* | IaP can help
+*Overall* | Nice, but I liked better the first

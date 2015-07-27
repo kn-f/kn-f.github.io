@@ -4,7 +4,11 @@
   <title><![CDATA[Why / Why Not]]></title>
   <link href="http://kn-f.github.io/atom.xml" rel="self"/>
   <link href="http://kn-f.github.io/"/>
+<<<<<<< HEAD
   <updated>2015-07-27T17:20:05+00:00</updated>
+=======
+  <updated>2015-04-13T18:13:00+00:00</updated>
+>>>>>>> 8553b2af3fbeada37cb1cf7092af091bb73a93fb
   <id>http://kn-f.github.io/</id>
   <author>
     <name><![CDATA[kn_F]]></name>
@@ -14,6 +18,7 @@
 
   
   <entry>
+<<<<<<< HEAD
     <title type="html"><![CDATA[Reviews Made Short - Dungelot 2]]></title>
     <link href="http://kn-f.github.io/blog/2015/07/27/dungelot-2/"/>
     <updated>2015-07-27T15:07:00+00:00</updated>
@@ -49,6 +54,8 @@
   </entry>
   
   <entry>
+=======
+>>>>>>> 8553b2af3fbeada37cb1cf7092af091bb73a93fb
     <title type="html"><![CDATA[Deploying Octopress to github.io]]></title>
     <link href="http://kn-f.github.io/blog/2015/04/06/deploying-octopress-to-github-dot-io/"/>
     <updated>2015-04-06T10:46:54+00:00</updated>

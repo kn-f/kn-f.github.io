@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Why | Why / Why Not]]></title>
   <link href="http://kn-f.github.io/blog/categories/why/atom.xml" rel="self"/>
   <link href="http://kn-f.github.io/"/>
-  <updated>2015-07-27T17:27:45+00:00</updated>
+  <updated>2015-07-29T13:31:14+00:00</updated>
   <id>http://kn-f.github.io/</id>
   <author>
     <name><![CDATA[kn_F]]></name>
@@ -14,28 +14,40 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Why - Developer Block]]></title>
+    <link href="http://kn-f.github.io/blog/2015/07/29/why-developer-block/"/>
+    <updated>2015-07-29T10:09:24+00:00</updated>
+    <id>http://kn-f.github.io/blog/2015/07/29/why-developer-block</id>
+    <content type="html"><![CDATA[In a [previous post](/blog/2014/12/29/once-i-was-a-developer/) I was extremely happy to say that my *developer's block* was no more.
+
+Unfortunately that was just an illusion since just a few weeks later I fell again in it...and I was in that situation until very recently.
+<!--more-->
+It was a hard hit when I realized that I didn&#8217;t want, that I couldn&#8217;t work on my [project](https://github.com/kn-f/EmuProj) anymore: even if I had spare time I could not put down a single line of code, not even a &#8220;echo &#8220;Hello world&#8221;&#8220;. I felt like it was a too complex task, taking too much time, much more time than the one I had. I felt I didn&#8217;t have the skills (this one is actually true) to face the project I was working on.
+
+Every time the same story and no matter how hard I tried, I just couldn&#8217;t do it. Then I found this [article](http://www.roguebasin.com/index.php?title=How_to_Write_a_Roguelike_in_15_Steps); it didn&#8217;t solve the problem but it started to move something inside me and I understood that I just didn&#8217;t had to *get it right* at first, I just had to start moving. And so I did: I listed all that was a blocking point for my *developer&#8217;s inspiration* and for each I proposed myself a solution. What came out is quite interesting (please keep in mind that I&#8217;m developing as a hobby)
+
+1. *It is a very complex task*: The article on how to write a Roguelike game really helped: 
+2. *I have to dedicate too much time to it*: I really didn&#8217;t tackle this point, I just realized that even dedicating 15 minutes every day to the project, it&#8217;s still progressing!
+3. *I don&#8217;t have the skills*: True, nothing to hide here. But one of the reasons why I loved programming was because I could always learn something new. So here I am working on [AngularJS](https://angularjs.org/) and [Fat Free Framework](http://fatfreeframework.com/) looking on how I can *hidrate* an object.
+4. *I need to get it right at first*: Uhhmm&#8230;really? Why? Once ready the project will not be usused by 1 million users at the same time, performances will be a problem but in a later stage. And the *product* itself? Who cares! I&#8217;m doing this as an hobby, if no one likes it, never mind, I&#8217;ve learned already so many things!
+
+I&#8217;m sure in the future I&#8217;ll face this block again several times and for different reasons but as long as I&#8217;m aware of it and I know what the reasons are&#8230; :D]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Deploying Octopress to github.io]]></title>
     <link href="http://kn-f.github.io/blog/2015/04/06/deploying-octopress-to-github-dot-io/"/>
     <updated>2015-04-06T10:46:54+00:00</updated>
     <id>http://kn-f.github.io/blog/2015/04/06/deploying-octopress-to-github-dot-io</id>
-    <content type="html"><![CDATA[<p>I wanted to take a chance to try the <em>linklog</em> solution but it&rsquo;s &ldquo;too complex&rdquo; for what I need.</p>
+    <content type="html"><![CDATA[I wanted to take a chance to try the *linklog* solution but it's "too complex" for what I need.
 
-<p>Basically I wanted to link this entry to a blog page explaining how to setup and link an <em>Octopress</em> blog to <a href="https://github.com/">GitHub</a>.</p>
-
+Basically I wanted to link this entry to a blog page explaining how to setup and link an *Octopress* blog to [GitHub](https://github.com/).
 <!-- more -->
+Among all the articles I read, this looked the easiest and most clear. If you just follow it you&#8217;ll be able to deploy your blog in *github* as well as use it as a standard git repository for the sources.
 
+This is the link: [Deploying Octopress to github.io](http://bayendor.github.io/blog/2013/07/17/deploying-octopress-to-github-dot-io/)[^1]
 
-<p>Among all the articles I read, this looked the easiest and most clear. If you just follow it you&rsquo;ll be able to deploy your blog in <em>github</em> as well as use it as a standard git repository for the sources.</p>
-
-<p>This is the link: <a href="http://bayendor.github.io/blog/2013/07/17/deploying-octopress-to-github-dot-io/">Deploying Octopress to github.io</a><sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup></p>
-<div class="footnotes">
-<hr/>
-<ol>
-<li id="fn:1">
-<p>Yes, shame on me, I even copied the title of the blog entry ;)<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
-</ol>
-</div>
-
+[^1]: Yes, shame on me, I even copied the title of the blog entry ;)
 ]]></content>
   </entry>
   
@@ -44,17 +56,13 @@
     <link href="http://kn-f.github.io/blog/2014/12/29/once-i-was-a-developer/"/>
     <updated>2014-12-29T10:50:33+00:00</updated>
     <id>http://kn-f.github.io/blog/2014/12/29/once-i-was-a-developer</id>
-    <content type="html"><![CDATA[<p>This is one of these days where I need to write. I&rsquo;m sure I&rsquo;ll never publish this post but at least let&rsquo;s give it a go.
-<em>Once I was a developer</em>, or at least this is what I think.</p>
-
+    <content type="html"><![CDATA[This is one of these days where I need to write. I'm sure I'll never publish this post but at least let's give it a go.
+*Once I was a developer*, or at least this is what I think.
 <!--more-->
+I started &#8220;writing programs&#8221; when a I was about 6. I still have a program (but it should be more accurate to call it a composition of existing programs) that I wrote on paper when I was about that age. Nothing complex but at that time the *discovery* of the fact that I could *create* was incredible.
 
-
-<p>I started &ldquo;writing programs&rdquo; when a I was about 6. I still have a program (but it should be more accurate to call it a composition of existing programs) that I wrote on paper when I was about that age. Nothing complex but at that time the <em>discovery</em> of the fact that I could <em>create</em> was incredible.</p>
-
-<blockquote><p>2/4/2015 - At that time I did not complete the post. I wanted to write that since a year or so I lost the will and drive to develop.
-Now it&rsquo;s important for me to make the post public as finally it looks like I got back the inspiration!</p></blockquote>
-]]></content>
+> 2/4/2015 - At that time I did not complete the post. I wanted to write that since a year or so I lost the will and drive to develop.
+> Now it&#8217;s important for me to make the post public as finally it looks like I got back the inspiration!]]></content>
   </entry>
   
   <entry>
@@ -62,22 +70,18 @@ Now it&rsquo;s important for me to make the post public as finally it looks like
     <link href="http://kn-f.github.io/blog/2014/12/10/why-music-while-creating/"/>
     <updated>2014-12-10T19:12:50+00:00</updated>
     <id>http://kn-f.github.io/blog/2014/12/10/why-music-while-creating</id>
-    <content type="html"><![CDATA[<p>Meh..:( Looks like I just lost the post&hellip;
-<a href="https://koding.com/">Koding</a> is briliant but needs a little bit of polishing to be a day to day tool.</p>
+    <content type="html"><![CDATA[Meh..:( Looks like I just lost the post...
+[Koding](https://koding.com/) is briliant but needs a little bit of polishing to be a day to day tool.
 
-<p>I was very inspired while writing (yes I was listening to some music:<a href="http://open.spotify.com/album/3KYFjFzw34AhmlxQC8r5W6">Neon Future I</a>) so probably it&rsquo;s better like this.</p>
-
+I was very inspired while writing (yes I was listening to some music:[Neon Future I](http://open.spotify.com/album/3KYFjFzw34AhmlxQC8r5W6)) so probably it's better like this.
 <!-- more -->
+The point is that whenever I feel like I need lots of concentration, when I want ot be isolated from the world, I put on my headphones and listen to some music. Not always my favourite songs; actually depending from how I feel I can listen to *classical*, *heavy metal*, *electro*.
 
+Every kind of music has a reason, each song has its piece of code, its part of the drawing that has inspired. The right music helps my creative flow, makes me feel like I&#8217;m just copying an existing script: no need to think, no need to review.
 
-<p>The point is that whenever I feel like I need lots of concentration, when I want ot be isolated from the world, I put on my headphones and listen to some music. Not always my favourite songs; actually depending from how I feel I can listen to <em>classical</em>, <em>heavy metal</em>, <em>electro</em>.</p>
+Then when the music ends and I check what I&#8217;ve done, the experience tells me that it&#8217;s not as good as it seemed to me when I was creating it. But still the influence of the music is there.
 
-<p>Every kind of music has a reason, each song has its piece of code, its part of the drawing that has inspired. The right music helps my creative flow, makes me feel like I&rsquo;m just copying an existing script: no need to think, no need to review.</p>
-
-<p>Then when the music ends and I check what I&rsquo;ve done, the experience tells me that it&rsquo;s not as good as it seemed to me when I was creating it. But still the influence of the music is there.</p>
-
-<p>What&rsquo;s your experience? Do you listen to music while creating?</p>
-]]></content>
+What&#8217;s your experience? Do you listen to music while creating?]]></content>
   </entry>
   
   <entry>
@@ -85,41 +89,41 @@ Now it&rsquo;s important for me to make the post public as finally it looks like
     <link href="http://kn-f.github.io/blog/2014/12/03/why-not-php-frameworks/"/>
     <updated>2014-12-03T17:35:14+00:00</updated>
     <id>http://kn-f.github.io/blog/2014/12/03/why-not-php-frameworks</id>
-    <content type="html"><![CDATA[<p>I’m writing this after more than two years since we took the decision to do the core development of our apps using plain <em>PHP</em> and to tell you the truth ditching object oriented programming as well.</p>
-
+    <content type="html"><![CDATA[I’m writing this after more than two years since we took the decision to do the core development of our apps using plain *PHP* and to tell you the truth ditching object oriented programming as well.
 <!--more-->
+I know that the current core is based on [Phalcon](http://www.phalconphp.com/) and it work pretty well for what I’ve been told; probably using a resonable framework is the way to go, just please bear with me to understand the reasoning and the decision behind the choice of going with pure *PHP*.
 
+First thing let me tell you that when the development started we were already late (nothing new, you could say). Since I wasn’t experienced with any framework I decided to go with plain *PHP*. At the end of the day *PHP* already provided most of the functionalities I needed. *Object Oriented Programming* was discarded as the website was pretty straightforward:
 
-<p>I know that the current core is based on <a href="http://www.phalconphp.com/">Phalcon</a> and it work pretty well for what I’ve been told; probably using a resonable framework is the way to go, just please bear with me to understand the reasoning and the decision behind the choice of going with pure <em>PHP</em>.</p>
-
-<p>First thing let me tell you that when the development started we were already late (nothing new, you could say). Since I wasn’t experienced with any framework I decided to go with plain <em>PHP</em>. At the end of the day <em>PHP</em> already provided most of the functionalities I needed. <em>Object Oriented Programming</em> was discarded as the website was pretty straightforward:
 * A few static pages
 * A login page
-* A <em>place a bet</em> page
+* A *place a bet* page
 * A user area
-* A result page</p>
+* A result page
 
-<p>To implement this the structure of the application was made of:
-* A routing function (a simple switch statement)
-* Several support libraries where the business logic and database accesses were implemented.
-In less than a week we had the prototype ready to roll allowing us to secure the project.</p>
+To implement this the structure of the application was made of: 
 
-<p>The structure of the libraries was created following the <em>Unix philosophy</em>: each library would implement a small set of independent functionalities and structured so that each function could be either invoked by <em>PHP</em> directly or used as web services with a simple wrapper.
-In this way we could distribute the application on several servers splitting logically the functions. This was working fairly fine and allowed us to create some Flash applications using the web services created with no effort.</p>
+* A routing function (a simple switch statement) 
+* Several support libraries where the business logic and database accesses were implemented. 
 
-<p>Then the revolution came, we had a team and and it was decided to go mainstream. We wrote everything from scratch using Symfony 2 and Doctrine: it took us two weeks non stop but the result was evidently better. I learnt many new things: bundles, ORM, Composer, injections…it was an exciting experience.</p>
+In less than a week we had the prototype ready to roll allowing us to secure the project.
 
-<p>Now if you ask me if I would use Doctrine, I’d be having mixed feelings. On Symfony2, I’d be prone to say no. But this is my personal opinion.</p>
+The structure of the libraries was created following the *Unix philosophy*: each library would implement a small set of independent functionalities and structured so that each function could be either invoked by *PHP* directly or used as web services with a simple wrapper. 
+In this way we could distribute the application on several servers splitting logically the functions. This was working fairly fine and allowed us to create some Flash applications using the web services created with no effort.
 
-<p>The person that took my place rewrote everything again using Phalcon, I’ve not used it so I cannot say anything.</p>
+Then the revolution came, we had a team and and it was decided to go mainstream. We wrote everything from scratch using *Symfony 2* and *Doctrine*: it took us two weeks non stop but the result was evidently better. I learnt many new things: bundles, ORM, Composer, injections…it was an exciting experience.
 
-<p>Back to the original question: would I use an existing PHP framework for a development? Not so sure…now I’m able to design a good and flexible routing engine with small effort. Security (sql injections, overflows…) is pretty well implemented with the basic PHP functions. Probably I’d push all the audit functions to the DBMS using triggers. Where I really enjoyed the advantages of the forms. But beside that…I’d rather create an ad hoc framework fit for the needs.</p>
+Now if you ask me if I would use *Doctrine*, I’d be having mixed feelings. On *Symfony2*, I’d be prone to say no. But this is my personal opinion.
 
-<p>I understand that there’s no need to reinvent the wheel and I completely support that philosophy but the building blocks for PHP are big and complex enough to allow an average web development to be lead without the need of a framework.</p>
+The person that took my place rewrote everything again using *Phalcon*, I’ve not used it so I cannot say anything.
 
-<p>Unfortunately, or for better, I left the PHP world and I stopped devloping and investigating other frameworks.</p>
+Back to the original question: would I use an existing PHP framework for a development? Not so sure…now I’m able to design a good and flexible routing engine with small effort. Security (sql injections, overflows…) is pretty well implemented with the basic PHP functions. Probably I’d push all the audit functions to the DBMS using triggers. Where I really enjoyed the advantages of the forms. But beside that…I’d rather create an ad hoc framework fit for the needs.
 
-<p>Anyone for any good suggestion?</p>
+I understand that there’s no need to reinvent the wheel and I completely support that philosophy but the building blocks for PHP are big and complex enough to allow an average web development to be lead without the need of a framework.
+
+Unfortunately, or for better, I left the PHP world and I stopped devloping and investigating other frameworks.
+
+Anyone for any good suggestion?
 ]]></content>
   </entry>
   

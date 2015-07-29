@@ -4,7 +4,7 @@
   <title><![CDATA[Why / Why Not]]></title>
   <link href="http://kn-f.github.io/atom.xml" rel="self"/>
   <link href="http://kn-f.github.io/"/>
-  <updated>2015-07-27T17:27:45+00:00</updated>
+  <updated>2015-07-29T13:31:14+00:00</updated>
   <id>http://kn-f.github.io/</id>
   <author>
     <name><![CDATA[kn_F]]></name>
@@ -12,6 +12,69 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Why - Developer Block]]></title>
+    <link href="http://kn-f.github.io/blog/2015/07/29/why-developer-block/"/>
+    <updated>2015-07-29T10:09:24+00:00</updated>
+    <id>http://kn-f.github.io/blog/2015/07/29/why-developer-block</id>
+    <content type="html"><![CDATA[<p>In a <a href="http://kn-f.github.io/blog/2014/12/29/once-i-was-a-developer/">previous post</a> I was extremely happy to say that my <em>developer&rsquo;s block</em> was no more.</p>
+
+<p>Unfortunately that was just an illusion since just a few weeks later I fell again in it&hellip;and I was in that situation until very recently.</p>
+
+<!--more-->
+
+
+<p>It was a hard hit when I realized that I didn&rsquo;t want, that I couldn&rsquo;t work on my <a href="https://github.com/kn-f/EmuProj">project</a> anymore: even if I had spare time I could not put down a single line of code, not even a <code>echo "Hello world"</code>. I felt like it was a too complex task, taking too much time, much more time than the one I had. I felt I didn&rsquo;t have the skills (this one is actually true) to face the project I was working on.</p>
+
+<p>Every time the same story and no matter how hard I tried, I just couldn&rsquo;t do it. Then I found this <a href="http://www.roguebasin.com/index.php?title=How_to_Write_a_Roguelike_in_15_Steps">article</a>; it didn&rsquo;t solve the problem but it started to move something inside me and I understood that I just didn&rsquo;t had to <em>get it right</em> at first, I just had to start moving. And so I did: I listed all that was a blocking point for my <em>developer&rsquo;s inspiration</em> and for each I proposed myself a solution. What came out is quite interesting (please keep in mind that I&rsquo;m developing as a hobby)</p>
+
+<ol>
+<li><em>It is a very complex task</em>: The article on how to write a Roguelike game really helped:</li>
+<li><em>I have to dedicate too much time to it</em>: I really didn&rsquo;t tackle this point, I just realized that even dedicating 15 minutes every day to the project, it&rsquo;s still progressing!</li>
+<li><em>I don&rsquo;t have the skills</em>: True, nothing to hide here. But one of the reasons why I loved programming was because I could always learn something new. So here I am working on <a href="https://angularjs.org/">AngularJS</a> and <a href="http://fatfreeframework.com/">Fat Free Framework</a> looking on how I can <em>hidrate</em> an object.</li>
+<li><em>I need to get it right at first</em>: Uhhmm&hellip;really? Why? Once ready the project will not be usused by 1 million users at the same time, performances will be a problem but in a later stage. And the <em>product</em> itself? Who cares! I&rsquo;m doing this as an hobby, if no one likes it, never mind, I&rsquo;ve learned already so many things!</li>
+</ol>
+
+
+<p>I&rsquo;m sure in the future I&rsquo;ll face this block again several times and for different reasons but as long as I&rsquo;m aware of it and I know what the reasons are&hellip; :D</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Victory Ratio]]></title>
+    <link href="http://kn-f.github.io/blog/2015/07/28/victory-ratio/"/>
+    <updated>2015-07-28T07:55:36+00:00</updated>
+    <id>http://kn-f.github.io/blog/2015/07/28/victory-ratio</id>
+    <content type="html"><![CDATA[<table>
+<thead>
+<tr>
+<th>Game </th>
+<th> <a href="http://www.product-pro.jp/axes/axes_workpage.html">Victory Ratio</a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>Fun</em> </td>
+<td> Not sure, but addictive!</td>
+</tr>
+<tr>
+<td><em>Complexity</em> </td>
+<td> Once you understand the mechanics, a piece of cake!</td>
+</tr>
+<tr>
+<td><em>Real Cost</em> </td>
+<td> Free as in beer!</td>
+</tr>
+<tr>
+<td><em>Overall</em> </td>
+<td> You must play it!</td>
+</tr>
+</tbody>
+</table>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Reviews Made Short - Dungelot 2]]></title>
@@ -197,26 +260,35 @@ Now it&rsquo;s important for me to make the post public as finally it looks like
 
 <p>I know that the current core is based on <a href="http://www.phalconphp.com/">Phalcon</a> and it work pretty well for what I’ve been told; probably using a resonable framework is the way to go, just please bear with me to understand the reasoning and the decision behind the choice of going with pure <em>PHP</em>.</p>
 
-<p>First thing let me tell you that when the development started we were already late (nothing new, you could say). Since I wasn’t experienced with any framework I decided to go with plain <em>PHP</em>. At the end of the day <em>PHP</em> already provided most of the functionalities I needed. <em>Object Oriented Programming</em> was discarded as the website was pretty straightforward:
-* A few static pages
-* A login page
-* A <em>place a bet</em> page
-* A user area
-* A result page</p>
+<p>First thing let me tell you that when the development started we were already late (nothing new, you could say). Since I wasn’t experienced with any framework I decided to go with plain <em>PHP</em>. At the end of the day <em>PHP</em> already provided most of the functionalities I needed. <em>Object Oriented Programming</em> was discarded as the website was pretty straightforward:</p>
 
-<p>To implement this the structure of the application was made of:
-* A routing function (a simple switch statement)
-* Several support libraries where the business logic and database accesses were implemented.
-In less than a week we had the prototype ready to roll allowing us to secure the project.</p>
+<ul>
+<li>A few static pages</li>
+<li>A login page</li>
+<li>A <em>place a bet</em> page</li>
+<li>A user area</li>
+<li>A result page</li>
+</ul>
+
+
+<p>To implement this the structure of the application was made of:</p>
+
+<ul>
+<li>A routing function (a simple switch statement)</li>
+<li>Several support libraries where the business logic and database accesses were implemented.</li>
+</ul>
+
+
+<p>In less than a week we had the prototype ready to roll allowing us to secure the project.</p>
 
 <p>The structure of the libraries was created following the <em>Unix philosophy</em>: each library would implement a small set of independent functionalities and structured so that each function could be either invoked by <em>PHP</em> directly or used as web services with a simple wrapper.
 In this way we could distribute the application on several servers splitting logically the functions. This was working fairly fine and allowed us to create some Flash applications using the web services created with no effort.</p>
 
-<p>Then the revolution came, we had a team and and it was decided to go mainstream. We wrote everything from scratch using Symfony 2 and Doctrine: it took us two weeks non stop but the result was evidently better. I learnt many new things: bundles, ORM, Composer, injections…it was an exciting experience.</p>
+<p>Then the revolution came, we had a team and and it was decided to go mainstream. We wrote everything from scratch using <em>Symfony 2</em> and <em>Doctrine</em>: it took us two weeks non stop but the result was evidently better. I learnt many new things: bundles, ORM, Composer, injections…it was an exciting experience.</p>
 
-<p>Now if you ask me if I would use Doctrine, I’d be having mixed feelings. On Symfony2, I’d be prone to say no. But this is my personal opinion.</p>
+<p>Now if you ask me if I would use <em>Doctrine</em>, I’d be having mixed feelings. On <em>Symfony2</em>, I’d be prone to say no. But this is my personal opinion.</p>
 
-<p>The person that took my place rewrote everything again using Phalcon, I’ve not used it so I cannot say anything.</p>
+<p>The person that took my place rewrote everything again using <em>Phalcon</em>, I’ve not used it so I cannot say anything.</p>
 
 <p>Back to the original question: would I use an existing PHP framework for a development? Not so sure…now I’m able to design a good and flexible routing engine with small effort. Security (sql injections, overflows…) is pretty well implemented with the basic PHP functions. Probably I’d push all the audit functions to the DBMS using triggers. Where I really enjoyed the advantages of the forms. But beside that…I’d rather create an ad hoc framework fit for the needs.</p>
 

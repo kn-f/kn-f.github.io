@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Review | Why / Why Not]]></title>
   <link href="http://kn-f.github.io/blog/categories/review/atom.xml" rel="self"/>
   <link href="http://kn-f.github.io/"/>
-  <updated>2015-07-27T17:27:45+00:00</updated>
+  <updated>2015-07-29T13:31:14+00:00</updated>
   <id>http://kn-f.github.io/</id>
   <author>
     <name><![CDATA[kn_F]]></name>
@@ -14,38 +14,29 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Victory Ratio]]></title>
+    <link href="http://kn-f.github.io/blog/2015/07/28/victory-ratio/"/>
+    <updated>2015-07-28T07:55:36+00:00</updated>
+    <id>http://kn-f.github.io/blog/2015/07/28/victory-ratio</id>
+    <content type="html"><![CDATA[Game | [Victory Ratio](http://www.product-pro.jp/axes/axes_workpage.html)
+--- | ---
+*Fun* | Not sure, but addictive!
+*Complexity* | Once you understand the mechanics, a piece of cake!
+*Real Cost* | Free as in beer!
+*Overall* | You must play it!]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Reviews Made Short - Dungelot 2]]></title>
     <link href="http://kn-f.github.io/blog/2015/07/27/dungelot-2/"/>
     <updated>2015-07-27T15:07:00+00:00</updated>
     <id>http://kn-f.github.io/blog/2015/07/27/dungelot-2</id>
-    <content type="html"><![CDATA[<table>
-<thead>
-<tr>
-<th>Game </th>
-<th> <a href="http://winter.red/">Dungelot 2</a></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><em>Fun</em> </td>
-<td> Will not keep you busy for more than 10 minutes</td>
-</tr>
-<tr>
-<td><em>Complexity</em> </td>
-<td> Easy to play, too much randomness,  grinding mandatory</td>
-</tr>
-<tr>
-<td><em>Real Cost</em> </td>
-<td> IaP can help</td>
-</tr>
-<tr>
-<td><em>Overall</em> </td>
-<td> Nice, but I liked better the first</td>
-</tr>
-</tbody>
-</table>
-
-]]></content>
+    <content type="html"><![CDATA[Game | [Dungelot 2](http://winter.red/)
+--- | ---
+*Fun* | Will not keep you busy for more than 10 minutes
+*Complexity* | Easy to play, too much randomness,  grinding mandatory
+*Real Cost* | IaP can help
+*Overall* | Nice, but I liked better the first]]></content>
   </entry>
   
   <entry>
@@ -53,33 +44,12 @@
     <link href="http://kn-f.github.io/blog/2015/04/06/spinlanders/"/>
     <updated>2015-04-06T09:31:26+00:00</updated>
     <id>http://kn-f.github.io/blog/2015/04/06/spinlanders</id>
-    <content type="html"><![CDATA[<table>
-<thead>
-<tr>
-<th>Game </th>
-<th> <a href="http://www.backupent.com/">Spinlanders</a></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><em>Fun</em> </td>
-<td> Enjoyable, grinding mandatory</td>
-</tr>
-<tr>
-<td><em>Complexity</em> </td>
-<td> Easy to play, a bit frustrating sometimes</td>
-</tr>
-<tr>
-<td><em>Real Cost</em> </td>
-<td> IaP can help a lot to progress quickly</td>
-</tr>
-<tr>
-<td><em>Overall</em> </td>
-<td> Have a look at it</td>
-</tr>
-</tbody>
-</table>
-
+    <content type="html"><![CDATA[Game | [Spinlanders](http://www.backupent.com/)
+--- | ---
+*Fun* | Enjoyable, grinding mandatory
+*Complexity* | Easy to play, a bit frustrating sometimes
+*Real Cost* | IaP can help a lot to progress quickly
+*Overall* | Have a look at it
 ]]></content>
   </entry>
   
@@ -88,32 +58,12 @@
     <link href="http://kn-f.github.io/blog/2015/04/02/mujo/"/>
     <updated>2015-04-02T12:20:33+00:00</updated>
     <id>http://kn-f.github.io/blog/2015/04/02/mujo</id>
-    <content type="html"><![CDATA[<table>
-<thead>
-<tr>
-<th>Game </th>
-<th> <a href="http://mujo.oinkgms.com/">MUJO</a></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><em>Fun</em> </td>
-<td> Entertaining</td>
-</tr>
-<tr>
-<td><em>Complexity</em> </td>
-<td> Good challanges, well balanced</td>
-</tr>
-<tr>
-<td><em>Real Cost</em> </td>
-<td> Free, low (IaP not required to reach level 20)</td>
-</tr>
-<tr>
-<td><em>Overall</em> </td>
-<td> Play it!</td>
-</tr>
-</tbody>
-</table>
+    <content type="html"><![CDATA[Game | [MUJO](http://mujo.oinkgms.com/)
+--- | ---
+*Fun* | Entertaining
+*Complexity* | Good challanges, well balanced
+*Real Cost* | Free, low (IaP not required to reach level 20)
+*Overall* | Play it!
 
 ]]></content>
   </entry>

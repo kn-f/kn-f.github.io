@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Why | Why / Why Not]]></title>
   <link href="http://kn-f.github.io/blog/categories/why/atom.xml" rel="self"/>
   <link href="http://kn-f.github.io/"/>
-  <updated>2015-07-29T13:31:14+00:00</updated>
+  <updated>2015-11-16T15:24:50+00:00</updated>
   <id>http://kn-f.github.io/</id>
   <author>
     <name><![CDATA[kn_F]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Why Not - Developer Block]]></title>
+    <link href="http://kn-f.github.io/blog/2015/11/16/why-not-developer-block/"/>
+    <updated>2015-11-16T15:04:10+00:00</updated>
+    <id>http://kn-f.github.io/blog/2015/11/16/why-not-developer-block</id>
+    <content type="html"><![CDATA[Always the same old story: now I am able to program now not...
+
+What makes the difference? And is the *problem* just for programming?
+<!--more-->
+You read a lot of stuff around about on self help, on what you should do to live better and so on. At first I looked at these for inspiration, to see if I could find a *help* for me, then I started realizing that all these methods work, but for those who wrote them.
+
+One of the thing I learned is to listen to myself, to my needs. Sometimes my body or my brain was giving me hints: *tiredness*, *apathy*, *aggressiveness*, *muscular pains*&#8230;If you&#8217;re healthy you should not experience these, at least not for a sustained amount of time. Small side note: I&#8217;m being over generic on these terms because it all really depends on you, if you&#8217;re usually grumpy even an excess of happyness could indicate that something&#8217;s wrong.   
+
+I&#8217;m sure you already experienced this. What did you do? Call it a day? Run and do something to distract you?
+No, there&#8217;s no one fits all solution, only you can listen to what your body tells you and only you will be the one able to reply properly.
+
+The more I&#8217;m aware soemthing&#8217;s not right with me, the easier it is to manage my developer&#8217;s block.
+Now I just want to enjoy myself, I don&#8217;t have deadlines, huge expectations or problems of milions. It&#8217;s my hobby and when it starts to be frustrating, I stop, maybe I&#8217;ll come back later when I&#8217;ll have a freesher mind.]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Why - Developer Block]]></title>
@@ -82,49 +102,6 @@ Every kind of music has a reason, each song has its piece of code, its part of t
 Then when the music ends and I check what I&#8217;ve done, the experience tells me that it&#8217;s not as good as it seemed to me when I was creating it. But still the influence of the music is there.
 
 What&#8217;s your experience? Do you listen to music while creating?]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Why Not - PHP Frameworks]]></title>
-    <link href="http://kn-f.github.io/blog/2014/12/03/why-not-php-frameworks/"/>
-    <updated>2014-12-03T17:35:14+00:00</updated>
-    <id>http://kn-f.github.io/blog/2014/12/03/why-not-php-frameworks</id>
-    <content type="html"><![CDATA[I’m writing this after more than two years since we took the decision to do the core development of our apps using plain *PHP* and to tell you the truth ditching object oriented programming as well.
-<!--more-->
-I know that the current core is based on [Phalcon](http://www.phalconphp.com/) and it work pretty well for what I’ve been told; probably using a resonable framework is the way to go, just please bear with me to understand the reasoning and the decision behind the choice of going with pure *PHP*.
-
-First thing let me tell you that when the development started we were already late (nothing new, you could say). Since I wasn’t experienced with any framework I decided to go with plain *PHP*. At the end of the day *PHP* already provided most of the functionalities I needed. *Object Oriented Programming* was discarded as the website was pretty straightforward:
-
-* A few static pages
-* A login page
-* A *place a bet* page
-* A user area
-* A result page
-
-To implement this the structure of the application was made of: 
-
-* A routing function (a simple switch statement) 
-* Several support libraries where the business logic and database accesses were implemented. 
-
-In less than a week we had the prototype ready to roll allowing us to secure the project.
-
-The structure of the libraries was created following the *Unix philosophy*: each library would implement a small set of independent functionalities and structured so that each function could be either invoked by *PHP* directly or used as web services with a simple wrapper. 
-In this way we could distribute the application on several servers splitting logically the functions. This was working fairly fine and allowed us to create some Flash applications using the web services created with no effort.
-
-Then the revolution came, we had a team and and it was decided to go mainstream. We wrote everything from scratch using *Symfony 2* and *Doctrine*: it took us two weeks non stop but the result was evidently better. I learnt many new things: bundles, ORM, Composer, injections…it was an exciting experience.
-
-Now if you ask me if I would use *Doctrine*, I’d be having mixed feelings. On *Symfony2*, I’d be prone to say no. But this is my personal opinion.
-
-The person that took my place rewrote everything again using *Phalcon*, I’ve not used it so I cannot say anything.
-
-Back to the original question: would I use an existing PHP framework for a development? Not so sure…now I’m able to design a good and flexible routing engine with small effort. Security (sql injections, overflows…) is pretty well implemented with the basic PHP functions. Probably I’d push all the audit functions to the DBMS using triggers. Where I really enjoyed the advantages of the forms. But beside that…I’d rather create an ad hoc framework fit for the needs.
-
-I understand that there’s no need to reinvent the wheel and I completely support that philosophy but the building blocks for PHP are big and complex enough to allow an average web development to be lead without the need of a framework.
-
-Unfortunately, or for better, I left the PHP world and I stopped devloping and investigating other frameworks.
-
-Anyone for any good suggestion?
-]]></content>
   </entry>
   
 </feed>
